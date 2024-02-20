@@ -64,10 +64,10 @@ Encryption formats supported:
  
 Encryption algorithms that can not be differentiated unless they have been decrypted, so the efficiency of the software also depends on the user's criteria.
 
-*HOW TO INSTALL 
+*HOW TO INSTALL* 
 
-apt-install python3
-gitclone https://github.com/JaniduXxX/Hash-Me.git
-cd Hash-Me
-python3 hash_me.py
-Enter Your Hash And Identitiy It
+* apt-install python3
+* gitclone https://github.com/JaniduXxX/Hash-Me.git
+* cd Hash-Me
+* python3 hash_me.py
+* Enter Your Hash And Identitiy It
